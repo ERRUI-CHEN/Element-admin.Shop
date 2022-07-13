@@ -1,6 +1,6 @@
 # [存档]基于vue-element模版写的b端管理后台前端项目
 
-## Build Setup
+## 环境部署
 
 ```bash
 
